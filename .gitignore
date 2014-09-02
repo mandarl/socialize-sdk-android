@@ -60,3 +60,4 @@ integration-test/local.properties
 integration-test/test-output
 sample/assets/existing-data/*.json
 sample/assets/sample-app.conf
+sdk/sdk.iml
